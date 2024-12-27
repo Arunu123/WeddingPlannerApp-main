@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\bin\Debug\net8.0\EventBus0025.deps.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\bin\Debug\net8.0\EventBus0025.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\bin\Debug\net8.0\EventBus0025.pdb
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.AssemblyInfo.cs
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\refint\EventBus0025.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.pdb
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\ref\EventBus0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\bin\Debug\net8.0\EventBus0025.deps.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\bin\Debug\net8.0\EventBus0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\bin\Debug\net8.0\EventBus0025.pdb
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.AssemblyInfo.cs
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\refint\EventBus0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\EventBus0025.pdb
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\EventBus\obj\Debug\net8.0\ref\EventBus0025.dll

@@ -1,0 +1,82 @@
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.exe
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.deps.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.runtimeconfig.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.pdb
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.AssemblyInfo.cs
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.APIGateway0025.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateway0025.props
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway0025.props
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateway0025.props
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\scopedcss\bundle\APIGateway0025.styles.css
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGatew.0E194DD3.Up2Date
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\refint\APIGateway0025.dll
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.pdb
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.genruntimeconfig.cache
+C:\Users\User\Desktop\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\ref\APIGateway0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.exe
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.deps.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.runtimeconfig.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\APIGateway0025.pdb
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.AssemblyInfo.cs
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.APIGateway0025.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.APIGateway0025.props
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIGateway0025.props
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIGateway0025.props
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\scopedcss\bundle\APIGateway0025.styles.css
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGatew.0E194DD3.Up2Date
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\refint\APIGateway0025.dll
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.pdb
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\APIGateway0025.genruntimeconfig.cache
+C:\Users\User\Desktop\SOWP IT0025\WeddingPlannerApp-main\WeddingPlannerApp-main\APIGateway\APIGateway\obj\Debug\net8.0\ref\APIGateway0025.dll

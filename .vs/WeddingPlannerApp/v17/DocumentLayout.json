@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\models\\expense0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\models\\expense0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\services\\iservice\\ibudgetservice0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\services\\iservice\\ibudgetservice0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\budgetservice0025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\budgetservice0025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\models\\budgetcategory0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\models\\budgetcategory0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\models\\budget0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\models\\budget0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\migrations\\budgetdbcontext0025modelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\migrations\\budgetdbcontext0025modelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\data\\budgetdbcontext0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\data\\budgetdbcontext0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\budgetservice0025\\controllers\\budgetcontroller0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F21DB3D-C4F2-41F9-AF28-490FC8E4A847}|BudgetService0025\\BudgetService0025.csproj|solutionrelative:budgetservice0025\\controllers\\budgetcontroller0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\eventbus\\eventbus0025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|solutionrelative:eventbus\\eventbus0025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0025\\NotificationService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\notificationservice0025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0025\\NotificationService0025.csproj|solutionrelative:notificationservice0025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\taskservice0025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|solutionrelative:taskservice0025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0025\\NotificationService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\notificationservice0025\\handlers\\taskupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0025\\NotificationService0025.csproj|solutionrelative:notificationservice0025\\handlers\\taskupdatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0025\\NotificationService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\notificationservice0025\\handlers\\taskcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE0B331-A14C-45DC-835D-2C0372E364BF}|NotificationService0025\\NotificationService0025.csproj|solutionrelative:notificationservice0025\\handlers\\taskcreatedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\taskservice0025\\messaging\\events\\taskupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|solutionrelative:taskservice0025\\messaging\\events\\taskupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\taskservice0025\\messaging\\events\\taskcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|solutionrelative:taskservice0025\\messaging\\events\\taskcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\taskservice0025\\messaging\\events\\eventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A834C1A3-7D9F-47BF-875F-6A83C48B83AE}|TaskService0025\\TaskService0025.csproj|solutionrelative:taskservice0025\\messaging\\events\\eventbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|solutionrelative:eventbus\\events\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\eventbus\\interfaces\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|solutionrelative:eventbus\\interfaces\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|c:\\users\\user\\desktop\\sowp it0025\\weddingplannerapp-main\\weddingplannerapp-main\\eventbus\\interfaces\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EE9F7E-C95C-4CCF-AA5D-1BE06399C9D4}|EventBus\\EventBus0025.csproj|solutionrelative:eventbus\\interfaces\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Services\\NotificationService0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\IService\\ITaskService0025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\Task0025Service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventService0025\\EventService0025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EventService0025\\EventService0025.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventService0025.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventService0025\\EventService0025.csproj",
+              "RelativeDocumentMoniker": "EventService0025\\EventService0025.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventService0025\\EventService0025.csproj",
+              "RelativeToolTip": "EventService0025\\EventService0025.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T16:48:08.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBudgetService0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Services\\IService\\IBudgetService0025.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Services\\IService\\IBudgetService0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Services\\IService\\IBudgetService0025.cs",
+              "RelativeToolTip": "BudgetService0025\\Services\\IService\\IBudgetService0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:44:47.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Expense0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Models\\Expense0025.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Models\\Expense0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Models\\Expense0025.cs",
+              "RelativeToolTip": "BudgetService0025\\Models\\Expense0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:44:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BudgetCategory0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Models\\BudgetCategory0025.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Models\\BudgetCategory0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Models\\BudgetCategory0025.cs",
+              "RelativeToolTip": "BudgetService0025\\Models\\BudgetCategory0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:44:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Budget0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Models\\Budget0025.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Models\\Budget0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Models\\Budget0025.cs",
+              "RelativeToolTip": "BudgetService0025\\Models\\Budget0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:43:59.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BudgetDbContext0025ModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Migrations\\BudgetDbContext0025ModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Migrations\\BudgetDbContext0025ModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Migrations\\BudgetDbContext0025ModelSnapshot.cs",
+              "RelativeToolTip": "BudgetService0025\\Migrations\\BudgetDbContext0025ModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:42:23.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BudgetDbContext0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Data\\BudgetDbContext0025.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Data\\BudgetDbContext0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Data\\BudgetDbContext0025.cs",
+              "RelativeToolTip": "BudgetService0025\\Data\\BudgetDbContext0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:41:47.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BudgetController0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Controllers\\BudgetController0025.cs",
+              "RelativeDocumentMoniker": "BudgetService0025\\Controllers\\BudgetController0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\Controllers\\BudgetController0025.cs",
+              "RelativeToolTip": "BudgetService0025\\Controllers\\BudgetController0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:41:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudgetService0025.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\BudgetService0025.csproj",
+              "RelativeDocumentMoniker": "BudgetService0025\\BudgetService0025.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\BudgetService0025\\BudgetService0025.csproj",
+              "RelativeToolTip": "BudgetService0025\\BudgetService0025.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T16:36:44.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NotificationService0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Services\\NotificationService0025.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Services\\NotificationService0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Services\\NotificationService0025.cs",
+              "RelativeToolTip": "..\\..\\..\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Services\\NotificationService0025.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:59:05.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITaskService0025.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\IService\\ITaskService0025.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\IService\\ITaskService0025.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\IService\\ITaskService0025.cs",
+              "RelativeToolTip": "..\\..\\..\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\IService\\ITaskService0025.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:50:17.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationService0025\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Program.cs",
+              "RelativeToolTip": "NotificationService0025\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:37:22.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskUpdatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Handlers\\TaskUpdatedEventHandler.cs",
+              "RelativeDocumentMoniker": "NotificationService0025\\Handlers\\TaskUpdatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Handlers\\TaskUpdatedEventHandler.cs",
+              "RelativeToolTip": "NotificationService0025\\Handlers\\TaskUpdatedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:36:49.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskCreatedEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Handlers\\TaskCreatedEventHandler.cs",
+              "RelativeDocumentMoniker": "NotificationService0025\\Handlers\\TaskCreatedEventHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\NotificationService0025\\Handlers\\TaskCreatedEventHandler.cs",
+              "RelativeToolTip": "NotificationService0025\\Handlers\\TaskCreatedEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:35:44.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\Events\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "EventBus\\Events\\IntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\Events\\IntegrationEvent.cs",
+              "RelativeToolTip": "EventBus\\Events\\IntegrationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:28:45.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventBus0025.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\EventBus0025.csproj",
+              "RelativeDocumentMoniker": "EventBus\\EventBus0025.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\EventBus0025.csproj",
+              "RelativeToolTip": "EventBus\\EventBus0025.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T06:57:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\Interfaces\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "EventBus\\Interfaces\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\Interfaces\\IEventHandler.cs",
+              "RelativeToolTip": "EventBus\\Interfaces\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:23:45.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\Interfaces\\IEventBus.cs",
+              "RelativeDocumentMoniker": "EventBus\\Interfaces\\IEventBus.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\EventBus\\Interfaces\\IEventBus.cs",
+              "RelativeToolTip": "EventBus\\Interfaces\\IEventBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:23:04.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Program.cs",
+              "RelativeDocumentMoniker": "TaskService0025\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Program.cs",
+              "RelativeToolTip": "TaskService0025\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:55:43.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Task0025Service.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\Task0025Service.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\Task0025Service.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\Task0025Service.cs",
+              "RelativeToolTip": "..\\..\\..\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Services\\Task0025Service.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:50:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "TaskService0025\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "RelativeToolTip": "TaskService0025\\Messaging\\Events\\TaskUpdatedEvent.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:02:45.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "RelativeDocumentMoniker": "TaskService0025\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "RelativeToolTip": "TaskService0025\\Messaging\\Events\\TaskCreatedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:01:51.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Messaging\\Events\\EventBase.cs",
+              "RelativeDocumentMoniker": "TaskService0025\\Messaging\\Events\\EventBase.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SOWP IT0025\\WeddingPlannerApp-main\\WeddingPlannerApp-main\\TaskService0025\\Messaging\\Events\\EventBase.cs",
+              "RelativeToolTip": "TaskService0025\\Messaging\\Events\\EventBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:56:23.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
